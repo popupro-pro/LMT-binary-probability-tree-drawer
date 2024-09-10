@@ -1,0 +1,15 @@
+﻿  Draw Tree copy.cpp
+C:\Users\Admin\Documents\Programming\LMT projektas\Draw Tree copy\Draw Tree copy\Tree.h(126,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Admin\Documents\Programming\LMT projektas\Draw Tree copy\Draw Tree copy\Tree.h(134,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Admin\Documents\Programming\LMT projektas\Draw Tree copy\Draw Tree copy\Framework.h(82,29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Admin\Documents\Programming\LMT projektas\Draw Tree copy\Draw Tree copy\Framework.h(82,19): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Admin\Documents\Programming\LMT projektas\Draw Tree copy\Draw Tree copy\Framework.h(89,26): warning C4838: conversion from 'int' to 'Uint8' requires a narrowing conversion
+C:\Users\Admin\Documents\Programming\LMT projektas\Draw Tree copy\Draw Tree copy\Framework.h(89,29): warning C4838: conversion from 'int' to 'Uint8' requires a narrowing conversion
+C:\Users\Admin\Documents\Programming\LMT projektas\Draw Tree copy\Draw Tree copy\Framework.h(89,32): warning C4838: conversion from 'int' to 'Uint8' requires a narrowing conversion
+C:\Users\Admin\Documents\Programming\LMT projektas\Draw Tree copy\Draw Tree copy\Framework.h(108,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Admin\Documents\Programming\LMT projektas\Draw Tree copy\Draw Tree copy\Framework.h(152,31): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Admin\Documents\Programming\LMT projektas\Draw Tree copy\Draw Tree copy\Framework.h(156,54): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Admin\Documents\Programming\LMT projektas\Draw Tree copy\Draw Tree copy\Framework.h(181,10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Admin\Documents\Programming\LMT projektas\Draw Tree copy\Draw Tree copy\Framework.h(188,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Admin\Documents\Programming\LMT projektas\Draw Tree copy\Draw Tree copy\Draw Tree copy.cpp(90,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Draw Tree copy.vcxproj -> C:\Users\Admin\Documents\Programming\LMT projektas\Draw Tree copy\x64\Debug\Draw Tree copy.exe

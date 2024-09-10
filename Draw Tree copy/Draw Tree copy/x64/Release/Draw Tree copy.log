@@ -1,0 +1,2 @@
+﻿MSVCRT.lib(exe_main.obj) : error LNK2001: unresolved external symbol main
+C:\Users\Admin\Documents\Programming\LMT projektas\Draw Tree copy\x64\Release\Draw Tree copy.exe : fatal error LNK1120: 1 unresolved externals
